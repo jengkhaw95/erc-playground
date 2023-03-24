@@ -1,7 +1,7 @@
 import {ethers} from "ethers";
 
 const target = [
-  /0x951114/g,
+  /0x0000/g,
   /0x1110/g,
   /0x2220/g,
   /0x3330/g,
