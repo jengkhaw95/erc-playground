@@ -15,7 +15,7 @@ contract ERC20 is IERC20 {
     string public name;
     string public symbol;
 
-    uint8 public decimals = 18; // 小数位数
+    uint8 public decimals = 18;
 
     constructor(string memory name_, string memory symbol_) {
         owner = msg.sender;
